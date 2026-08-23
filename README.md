@@ -3,14 +3,6 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,1D9E75&height=120&section=header&animation=fadeIn" />
 
-```
-  ██████ ██    ██  ██████   ███████ 
-  ██      ██  ██  ██       ╚════██ 
-  ███████  ████   ██           ██  
-       ██   ██    ██          ██   
-  ██████    ██     ██████    ██    
-```
-
 ### `Δt → 0 · infinite`
 
 *Engineering across the continuum.*
